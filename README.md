@@ -47,14 +47,14 @@ In this analysis, we needed to show play outcomes broke down in goal amount rang
 we needed to display the counts and percentages of the successful, failed and cancelled plays. We 
 were also required to get a Total count of all three outcomes displayed.  
 
-Lastly, I left my percentages showing two decimal points in the table because it is bad practice 
-to leave any percentages that are supposed to add up to 100%, add up to 101%. The last row presents
-this issue. This leave too much room for scrutinization. If someone is going to let me do what I 
-love for them (my employer), I will be sure to double check my results.
+Lastly, I left my percentages with two decimal points in the table. It is bad practice to leave 
+percentages in a format that confuses the reader. The last row of the table presents an issue. 
+The totals should add up to 100%. They don't. When left rounded with no decimal points, they add 
+up to 101%. 
 
 ### Challenges and Difficulties Encountered
-The nested if statement is cumbersom and very difficult to debug within Excel. Also, within any
-other language, you wouldn't do this. You would write a case statement. 
+The nested if statement is cumbersome and very difficult to debug within Excel. Also, within any
+other language, you wouldn't do this. You would write a CASE statement. 
 
 ## Results
 
