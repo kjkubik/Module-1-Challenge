@@ -101,5 +101,3 @@ an outcome factor might prove to be of some worth.
 
 Also, we never touched on staff pick and spot light? Do they present an 
 effect on outcome? Possibly. We will not know unless we explore them.
-
-!(https://images.search.yahoo.com/images/view;_ylt=AwrExo.PZXNh7x0A1yuJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2Y4NTJjOGMzNGNmYTA4ZTVjYTk5NGIyNzRkM2YyMjhlBGdwb3MDNzAEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dthe%2Bshow%2Bmust%2Bgo%2Bon%26type%3DE211US1487G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26nost%3D1%26tab%3Dorganic%26ri%3D70&w=2000&h=366&imgurl=assurityconsulting.co.uk%2Fassets%2FSeminar-Logo-Images%2Fa2332f1d2c%2FShowMustHeader2k.jpg&rurl=https%3A%2F%2Fassurityconsulting.co.uk%2Fknowledge%2Fseminars%2Fthe-show-must-go-on&size=444.7KB&p=the+show+must+go+on&oid=f852c8c34cfa08e5ca994b274d3f228e&fr2=piv-web&fr=mcafee&tt=The+Show+Must+Go+On+CPD+Seminar&b=61&ni=21&no=70&ts=&tab=organic&sigr=mlw4QygdI9G.&sigb=2l8jMbsgERSB&sigi=P6GM2O3o.4QG&sigt=EFkHJtS6_isM&.crumb=8.n2kwSr7eb&fr=mcafee&fr2=piv-web&type=E211US1487G0)
