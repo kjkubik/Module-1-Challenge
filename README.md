@@ -68,27 +68,29 @@ other language, you wouldn't do this. You would write a CASE statement.
 
 ### What are some limitations of this dataset?
 
-The data doesn’t answer some obvious questions. This leaves me wanting. 
-Where is it? Give it to me; I want to study it please.
-
 ### Whether Weather Matters
-For instance, is it true adding countries in southern hemisphere might 
-show the effect weather might have on a successful campaign? The data 
-is limited to northern hemisphere.
 
-We know four-letter words matter (**SNOW, HEAT, RAIN, FALL, WIND**). That 
-is, it has been proven weather does matter in many well know studies. 
-It has been used to prove humans commit crimes more in the summer, 
-when there is **HEAT**. We also have used in studies to know when more 
-babies are born. It is in the **FALL** we ‘shack-up’ to make babies. 
-We have also used it to study depression. We know when the **SNOW** 
-is falling, depression can leak easier into our lives.
+The data doesn’t answer some obvious questions. This leaves me wanting. 
+The most obvious to me is the weather. By adding countries in southern 
+hemisphere, we might be able to show the effect weather has on a 
+successful campaign. 
 
-Wouldn’t it have been nice to know regional information? What about
-the MIN and MAX contribution of each subcategory? How about whether 
-there was other advertising or insentive utilized to promote the campaigns? 
+The reason I believe this is because some four-letter words matter 
+(**SNOW, HEAT, RAIN, FALL, WIND**). That is, it has been proven 
+weather does matter in many well know studies. It has been used to 
+prove humans commit crimes more in the summer, when there is **HEAT**. 
+We also have used in studies to know when more babies are born. 
+It is in the **FALL** we ‘shack-up’ to make babies. We have also 
+used it to study depression. We know when the **SNOW** is falling, 
+depression can leak easier into our lives.
 
-- What are some other possible tables and/or graphs that we could create?
+### Other Limitations
+
+Wouldn’t it have been nice to know what the MIN and MAX contribution 
+of each subcategory was? How about whether there was other advertising 
+or insentive utilized to promote the campaigns? 
+
+### What are some other possible tables and/or graphs that we could create?
 
 I would like my graphs to show a story. What kind of story could be told 
 if we used deadlines? We have explored the length of a campaign as having 
