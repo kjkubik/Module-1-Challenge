@@ -71,7 +71,7 @@ other language, you wouldn't do this. You would write a case statement.
 The data doesn’t answer some obvious questions. This leaves me wanting. 
 Where is it? Give it to me; I want to study it please.
 
-# Whether Weather Matters
+### Whether Weather Matters
 For instance, is it true adding countries in southern hemisphere might 
 show the effect weather might have on a successful campaign? The data 
 is limited to northern hemisphere.
