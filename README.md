@@ -34,8 +34,8 @@ so that data could be utilized.
 ```
 
 ### Other Resources used:
-    - How to [Convert Epoch Dates to Readable Dates](https://www.epochconverter.com/)			
-    - Understanding [Timestamps](https://websiteseochecker.com/blog/what-is-timestamp/)			
+How to [Convert Epoch Dates to Readable Dates](https://www.epochconverter.com/)			
+Understanding [Timestamps](https://websiteseochecker.com/blog/what-is-timestamp/)			
 
 
 ### Analysis of Outcomes Based on Launch Date
