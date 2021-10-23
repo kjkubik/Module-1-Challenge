@@ -21,7 +21,7 @@ To summarize the data, pivot tables and charts and statistical tables were creat
 so that specific outcomes could be seen. We also used several other Excel functions 
 so that data could be utilized. 
 
-###Functions used: 
+### Functions used: 
 ```
 - DATE(), YEAR()
 - conversion of epoch date to readable: DATE(1970,1,1) + [epoch date])/60/60/24
