@@ -33,9 +33,9 @@ so that data could be utilized.
 - percentage (=x/y*100)
 ```
 
-Other Resources used:
-How to [Convert Epoch Dates to Readable Dates](https://www.epochconverter.com/)			
-Understanding [Timestamps](https://websiteseochecker.com/blog/what-is-timestamp/)			
+###Other Resources used:
+#####How to [Convert Epoch Dates to Readable Dates](https://www.epochconverter.com/)			
+#####Understanding [Timestamps](https://websiteseochecker.com/blog/what-is-timestamp/)			
 
 
 ### Analysis of Outcomes Based on Launch Date
